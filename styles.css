@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .heading_container{
+    padding: 2rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  .container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  
+  header {
+    background: #007BFF;
+    color: white;
+    padding: 1rem 0;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  
+  .list {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .section {
+    padding: 2rem;
+  }
+  
+  .section h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  
+  footer {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+    margin-top: 1rem;
+  }
